@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406772046477",
+    "project_id": "fir-allchat-7a3d1",
+    "storage_bucket": "fir-allchat-7a3d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406772046477:android:9d97f0a04b947a09f860c4",
+        "android_client_info": {
+          "package_name": "com.example.firebase_chat_tutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406772046477-qqk637ehjm4s20scd4fg9opess33nbpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCsaqkdEYtbM8u-MBz2pcSaCrHQiFN0gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406772046477-qqk637ehjm4s20scd4fg9opess33nbpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
